@@ -11,7 +11,7 @@ var url_api_devloper_portal = "https://api.us.apiconnect.ibmcloud.com/spbodieusi
 
 
 // Your API ClientID
-var IBM_CLIENT_ID = " 7ee7bfa3-bcbe-4d2d-ab1c-8e79da40e7c9";
+var IBM_CLIENT_ID = "7ee7bfa3-bcbe-4d2d-ab1c-8e79da40e7c9";
 
 
 // Your API ClientSecret
